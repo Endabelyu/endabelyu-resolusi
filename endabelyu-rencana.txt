@@ -1,1 +1,15 @@
 Rencana Project 
+
+- buat web app game tentang pengetahuan kebudayaan , sejarah dll tentang indonesia #
+- buat app / game versi mobilenya #
+- buat web app serta mobile apps tentang RO *
+- buat web serta mobile apps tentang destinasi wisata seluruh indonesia #
+- buat we serta mobile apps tentang makanan khas daerah nusantara #
+- buat web app/ mobile app toko dari daftar pelanggan, serta keuangan dan lain-lain *
+- web app serta mobile apps tentang reminder mulai dari jadwal sholat, pengingat ngaji, kajian
+dll *
+- buat webapp / mobile app reminder dengan to do list buat dipakai sendiri *
+
+
+note: *: Prioritas pertama
+      #: prioritas kedua
