@@ -13,6 +13,7 @@ Endabelyu Resolusi jangka panjang
 - buat web app serta mobile apps tentang RO *
 - buat web serta mobile apps tentang destinasi wisata seluruh indonesia #
 - buat we serta mobile apps tentang makanan khas daerah nusantara #
+- buat web app/ mobile app toko dari daftar pelanggan, serta keuangan dan lain-lain *
 
 
 
